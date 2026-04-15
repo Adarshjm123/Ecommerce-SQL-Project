@@ -103,7 +103,7 @@ Ecommerce-SQL-Project/
 ![Top Customers](images/top_customers.png)
 
 ### Top Products
-![Top Products](images/top_products.png)
+![Top Products](images/top_product.png)
 
 ## 👨‍💻 Author
 

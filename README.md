@@ -91,6 +91,19 @@ Ecommerce-SQL-Project/
 * Perform advanced analytics like RFM segmentation and cohort analysis
 
 ---
+## 📸 Project Screenshots
+
+### Database Tables
+![Tables](images/tables.png)
+
+### Total Revenue
+![Revenue](images/revenue.png)
+
+### Top Customers
+![Top Customers](images/top_customers.png)
+
+### Top Products
+![Top Products](images/top_products.png)
 
 ## 👨‍💻 Author
 
